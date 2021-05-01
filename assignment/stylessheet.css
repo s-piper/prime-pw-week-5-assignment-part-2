@@ -6,8 +6,11 @@ header {
 
 main{
   background-color: lightgrey;
+  padding: 1em;
 }
 
 body {
   background-image: url("record.png");
+  margin: 0px;
+
 }
