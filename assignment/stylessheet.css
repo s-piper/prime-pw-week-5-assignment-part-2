@@ -1,10 +1,10 @@
-header {
+.top-text {
   background-color: #091217;
   color: lightblue;
   text-align: center;
 }
 
-main{
+.meat {
   background-color: lightgrey;
   padding: 1em;
 }
